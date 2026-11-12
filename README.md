@@ -1,0 +1,2 @@
+The curated yoga dataset (Yoga-Asana_Analytics_Project_Data.xlsx) in this repository is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+Exploratory data analysis and machine learning project for classifying 100 yoga asanas using Python + Jupyter Notebook (Pandas, NumPy, Matplotlib, Scikit-learn). Predicting pose difficulty utilizing a custom, domain-curated data set mapping pose orientations, spinal actions, physical demands, and target muscle groups.
