@@ -1,0 +1,101 @@
+﻿Pose_ID,English_Name,Sanskrit_Name,Difficulty_Level,Seated_Pose,Standing_Pose,Prone_Pose,Supine_Pose,Kneeling_Pose,Balance_Pose,Forward_Fold_Pose,Backbend_Pose,Spinal_Twist_Pose,Inversion_Pose,Arm_Balance_Pose,Targets_Quadriceps,Targets_Hamstrings,Targets_Glutes,Targets_Hips,Targets_Chest,Targets_Core,Targets_Back,Targets_Triceps,Targets_Biceps,Balance_Required,Wrist_Weight_Bearing,Spinal_Action,Reference(s)
+1,Corpse Pose,Savasana,Beginner,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Neutral,https://www.tummee.com/yoga-poses/corpse-pose
+2,Hero Pose,Virasana,Intermediate,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Neutral,https://www.tummee.com/yoga-poses/hero-pose
+3,Easy Seat,Sukhasana,Beginner,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Neutral,https://www.tummee.com/yoga-poses/easy-pose
+4,Accomplished,Siddhasana,Beginner,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Neutral,https://www.tummee.com/yoga-poses/accomplished-pose
+5,Bound Angle/ Butterfly Pose,Baddha Konasana,Beginner,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/bound-angle-pose
+6,Reclined Bound Angle Pose/ Reclined Butterfly Pose,Supta Baddha Konasana,Beginner,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Neutral,https://www.tummee.com/yoga-poses/reclining-bound-angle-pose
+7,Halfway Lift,Ardha Uttanasana,Beginner,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/upward-forward-fold-hands-on-shins
+8,Cat Pose,Marjaryasana,Beginner,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Flexion,https://www.tummee.com/yoga-poses/cat-pose
+9,Cow Pose,Bitilasana,Beginner,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,Extension,https://www.tummee.com/yoga-poses/cow-pose
+10,Low Crescent Lunge,Anjaneyasana,Beginner,0,1,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0,Extension,https://www.tummee.com/yoga-poses/low-lunge-pose
+11,High Cresent Lunge,Utthita Ashwa Sanchalanasana,Beginner,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,1,0,0,1,0,Extension,https://www.tummee.com/yoga-poses/runners-lunge-pose
+12,Lizard Lunge,Utthan Pristhasana,Intermediate,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,1,Extension,https://www.tummee.com/yoga-poses/lizard-pose
+13,Cobra Pose,Bhujangasana,Beginner,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,1,0,1,Extension,https://www.tummee.com/yoga-poses/cobra-pose
+14,Sphinx Pose,Salamba Bhujangasana,Beginner,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,Extension,https://www.tummee.com/yoga-poses/sphinx-pose
+15,Mountain Pose,Tadasana,Beginner,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/mountain-pose
+16,High Mountain,Urdhva Hastasana,Beginner,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/volcano-pose
+17,Standing Forward Fold,Uttanasana,Beginner,0,1,0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/standing-forward-fold-pose
+18,Table Top,Bharnabasana,Beginner,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,Neutral,https://www.tummee.com/yoga-poses/table-top-pose
+19,Balancing Table,Dandayamna Bharmanasana,Intermediate,0,0,1,0,1,1,0,0,0,0,0,1,1,1,1,0,1,0,1,1,1,1,Extension,https://www.tummee.com/yoga-poses/balancing-table-pose
+20,Warrior I,Vibhadrasana I,Beginner,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,1,0,Neutral,https://www.tummee.com/yoga-poses/warrior-pose-i
+21,Warrior II,Vibhadrasana II,Beginner,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,1,0,Neutral,https://www.tummee.com/yoga-poses/warrior-pose-ii
+22,Warrior III,Vibhadrasana III,Intermediate,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0,1,0,Extension,https://www.tummee.com/yoga-poses/warrior-pose-iii
+23,Peaceful Warrior,Viparita Virabhadrasana,Beginner,0,1,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,1,0,0,1,0,Flexion,https://www.tummee.com/yoga-poses/reverse-warrior-pose
+24,Revolved Peaceful Warrior,Parivrtta Viparita Virabhadrasana,Intermediate,0,1,0,0,0,1,0,1,1,0,0,1,1,0,1,1,1,1,0,0,1,0,Twist,https://www.tummee.com/yoga-poses/twisted-reverse-warrior-pose
+25,Downward Facing Dog,Adho Mukha Svanasana,Beginner,0,1,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,Extension,https://www.tummee.com/yoga-poses/downward-facing-dog-pose
+26,Three Legged Dog,Tri Pada Adho Mukha Svanasana,Intermediate,0,1,1,0,0,1,0,0,0,1,0,1,1,1,1,0,1,1,1,1,1,1,Extension,https://www.tummee.com/yoga-poses/three-legged-downward-facing-dog-pose
+27,Plank Pose,Phalakasana,Beginner,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,Neutral,https://www.tummee.com/yoga-poses/plank-pose
+28,Chaturanga,Chaturanga Dandasana,Beginner,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,1,1,Neutral,https://www.tummee.com/yoga-poses/four-limbed-staff-pose
+29,Upward Facing Dog Pose,Urdhva Mukha Svanasana,Intermediate,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,0,0,1,Extension,https://www.tummee.com/yoga-poses/upward-facing-dog-pose
+30,Child's Pose,Balasana,Beginner,0,0,1,0,1,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,Flexion,https://www.tummee.com/yoga-poses/child-pose
+31,Wide Legged Child's Pose,Prasarita Balasana,Beginner,0,0,1,0,1,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,Flexion,https://www.tummee.com/yoga-poses/wide-child-pose
+32,Knees to Chest,Pawanmuktasana,Beginner,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/wind-release-pose
+33,Chair Pose,Utkatasana,Beginner,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/chair-pose
+34,Revolved Chair Pose,Parivrtta Utkatasana,Beginner,0,1,0,0,0,0,0,0,1,0,0,1,1,1,1,0,1,1,0,0,0,0,Twist,https://www.tummee.com/yoga-poses/revolved-chair-pose
+35,Staff Pose,Dandasana,Beginner,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Neutral,https://www.tummee.com/yoga-poses/staff-pose
+36,Bridge Pose,Setu Bandha Sarvangasana,Beginner,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,1,0,Extension,https://www.tummee.com/yoga-poses/setubandha-sarvangasana
+37,Triangle Pose,Trikonasana,Intermediate,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/triangle-pose
+38,Revolved Triangle Pose,Parivrtta Trikonasana,Intermediate,0,1,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0,0,Twist,https://www.tummee.com/yoga-poses/revolved-triangle-pose
+39,Happy Baby,Andana Balasana,Beginner,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/happy-baby-pose
+40,Supine Spinal Twist,Supta Matsyendrasana,Beginner,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Twist,https://www.tummee.com/yoga-poses/supine-spinal-twist-yoga-pose-i
+41,Garland Pose,Malasana,Beginner,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/garland-pose
+42,Cow Face,Gomukhasana,Beginner,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/cow-face-pose
+43,Tree Pose,Vrksasana,Beginner,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Extension,https://www.tummee.com/yoga-poses/tree-pose
+44,Head to Knee,Janu Sirsasana,Beginner,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/head-to-knee-pose
+45,Seated Forward Fold (legs together),Paschimottanasana,Intermediate,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/seated-forward-bend-pose
+46,Puppy Pose,Uttana Shishosana,Beginner,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/puppy-dog-pose
+47,Crocodile Pose,Makarasana,Beginner,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Neutral,https://www.tummee.com/yoga-poses/crocodile-pose
+48,Bird of Paradise,Svarga Dvijasana,Advanced,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1,1,0,Neutral,https://www.tummee.com/yoga-poses/bird-of-paradise-pose
+49,Eagle,Garudasana,Beginner,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,Neutral,https://www.tummee.com/yoga-poses/eagle-pose
+50,Dolphin,Ardha Pincha Mayurasana,Beginner,0,1,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,1,1,1,1,0,Extension,https://www.tummee.com/yoga-poses/dolphin-pose
+51,Standing Wide Legged Forward Fold,Prasarita Padottanasana,Beginner,0,1,0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/intense-leg-stretch-pose
+52,Goddess,Utkata Konasana,Beginner,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/goddess-pose
+53,Half Pigeon,Rajakapotasana ,Beginner,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/half-pigeon-pose
+54,King Pigeon,Eka Pada Rajakapotasana,Advanced,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/one-legged-king-pigeon-pose-iii
+55,Thread the Needle Pose,Urdhva Mukha Pasasana,Beginner,0,0,1,0,1,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,Twist,https://www.tummee.com/yoga-poses/thread-the-needle-pose
+56,Boat Pose,Navasana,Intermediate,1,0,0,0,0,1,1,0,0,0,0,1,0,1,1,0,1,1,0,0,1,0,Extension,https://www.tummee.com/yoga-poses/boat-pose
+57,Star Pose,Utthita Tadasana,Beginner,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Neutral,https://www.tummee.com/yoga-poses/five-pointed-star-pose
+58,Extended Side Angle,Utthita Parsvakonasana,Beginner,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,Extension,https://www.tummee.com/yoga-poses/extended-side-angle-pose
+59,Revolved Extended Side Angle,Parivrtta Parsvakonasana,Intermediate,0,1,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,1,1,0,1,Twist,https://www.tummee.com/yoga-poses/revolved-side-angle-pose-hands-on-floor
+60,Half Moon Pose,Ardha Chandrasana,Intermediate,0,1,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,0,1,1,1,0,Extension,https://www.tummee.com/yoga-poses/half-moon-pose
+61,Revolved Half Moon Pose,Parivrtta Ardha Chandrasana,Intermediate,0,1,0,0,0,1,1,0,1,0,0,1,1,1,1,0,1,0,1,1,1,0,Twist,https://www.tummee.com/yoga-poses/revolved-half-moon-pose
+62,Half Split,Ardha Hanumanasana,Intermediate,1,0,0,0,1,0,1,0,0,0,0,1,1,1,1,0,1,1,0,0,0,0,Neutral,https://www.tummee.com/yoga-poses/half-splits-pose
+63,Locust Pose,Salabhasana,Beginner,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/locust-pose
+64,Shoulder Stand Pose,Salamba Sarvangasana,Intermediate,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,Flexion,https://www.tummee.com/yoga-poses/shoulderstand-pose
+65,Plow Pose,Halasana,Intermediate,0,0,0,1,0,1,0,0,0,1,0,0,1,1,1,0,1,1,0,0,0,0,Flexion,https://www.tummee.com/yoga-poses/plough-pose
+66,Seated Straddle,Upavistha Konasana,Intermediate,1,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,1,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/seated-straddle-pose
+67,Bow Pose,Dhanurasana,Beginner,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,Extension,https://www.tummee.com/yoga-poses/bow-pose
+68,Wheel Pose,Chakrasana,Intermediate,0,0,0,1,0,1,0,1,0,1,0,1,0,1,0,1,1,1,1,1,1,1,Extension,https://www.tummee.com/yoga-poses/wheel-pose
+69,Camel,Ustrasana,Beginner,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,1,1,1,0,0,1,0,Extension,https://www.tummee.com/yoga-poses/camel-pose
+70,Gate Pose,Parighasana,Beginner,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,1,0,1,0,0,1,0,Flexion,https://www.tummee.com/yoga-poses/gate-pose
+71,Dancer,Natarajasana,Intermediate,0,1,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,1,1,1,1,0,Extension,https://www.tummee.com/yoga-poses/dancer-pose
+72,Crow,Kakasana,Advanced,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1,1,1,1,1,Flexion,https://www.tummee.com/yoga-poses/crow-pose
+73,Standing Split,Urdhva Prasarita Eka Padasana,Advanced,0,1,0,0,0,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,Flexion,https://www.tummee.com/yoga-poses/standing-split-pose
+74,Splits,Hanumanasana,Advanced,1,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,Extension,https://www.tummee.com/yoga-poses/splits-pose
+75,Wide Legged Squat Over One Leg,Skandasana,Beginner,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,Extension,https://www.tummee.com/yoga-poses/wide-legged-squat-over-one-leg
+76,Headstand,Salamba Sirsasana,Advanced,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,1,1,1,1,0,Neutral,https://www.tummee.com/yoga-poses/headstand-pose
+77,Fallen Triangle Pose,Patita Tarasana,Intermediate,0,1,0,0,0,1,0,0,0,0,1,1,1,0,1,1,1,1,1,1,1,1,Extension,https://www.tummee.com/yoga-poses/fallen-triangle-pose
+78,Crane ,Bakasana,Advanced,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1,1,1,1,1,Flexion,https://www.tummee.com/yoga-poses/crane-pose
+79,Side Crow,Parsva Kakasana,Advanced,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,1,1,1,1,1,1,Twist,https://www.tummee.com/yoga-poses/side-crow-pose
+80,Handstand,Adho Mukha Vrksasana,Advanced,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1,1,1,1,1,Neutral,https://www.tummee.com/yoga-poses/handstand-pose
+81,Flying Splits,Koundinyasana II,Advanced,0,0,1,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,1,1,1,1,Extension,https://www.tummee.com/yoga-poses/flying-splits-pose
+82,Dead Bug,Stambhasana,Intermediate,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,Neutral,https://www.tummee.com/yoga-poses/dead-bug-pose
+83,Shiva Squat,None,Intermediate,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,Neutral,https://www.tummee.com/yoga-poses/shiva-squat-pose-prayer-hands
+84,Reverse Table Top,Ardha Purvottanasana,Intermediate,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,1,1,1,1,Neutral,https://www.tummee.com/yoga-poses/reverse-table-top-pose
+85,Frog Pose,Mandukasana,Intermediate,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/frog-pose-i
+86,Chin Stand,Ganda Bherundasana,Advanced,0,0,1,0,0,1,0,1,0,1,1,0,1,0,0,0,1,1,1,1,1,1,Extension,https://www.tummee.com/yoga-poses/chin-stand
+87,Scorpion Handstand,Vrschikasana,Advanced,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0,0,1,1,1,1,1,1,Extension,https://www.tummee.com/yoga-poses/scorpion-handstand-pose
+88,Fallen Angel,Devaduuta Panna Asana,Advanced,0,0,1,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,1,1,Lateral Flexion,https://www.tummee.com/yoga-poses/fallen-angel-pose
+89,Wild Thing,Camatkarasana,Intermediate,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,1,1,1,1,1,1,1,Extension,https://www.tummee.com/yoga-poses/wild-thing-pose
+90,Flip Dog,Adho Mukha Svanasana Flip,Intermediate,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,1,1,0,1,1,1,1,Extension,https://www.tummee.com/yoga-poses/flip-the-dog-pose
+91,Pyramid,Parsvottanasana,Intermediate,0,1,0,0,0,0,1,0,0,1,0,1,1,1,1,0,1,1,0,0,0,0,Neutral,https://www.tummee.com/yoga-poses/intense-side-stretch-pose
+92,Side Plank,Vasisthasana,Intermediate,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,Anti Lateral Flexion,https://www.tummee.com/yoga-poses/vasisthasana
+93,Seated Spinal Twist,Ardha Matsyendrasana,Intermediate,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,Twist,https://www.tummee.com/yoga-poses/ardha-matsyendrasana
+94,Fish Pose,Matasyasana,Beginner,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/fish-pose
+95,Reclined Hero Pose,Supta Virasana,Intermediate,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,Extension,https://www.tummee.com/yoga-poses/reclining-hero-pose
+96,Half Chair Pose,Ardha Utkatasana,Intermediate,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,1,0,0,1,0,Extension,https://www.tummee.com/yoga-poses/half-chair-pose
+97,Figure Four Stretch,Sucirandhrasana,Beginner,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,Neutral,https://www.tummee.com/yoga-poses/reverse-pigeon-pose
+98,Humble Warrior,Baddha Viabhadrasana,Intermediate,0,1,0,0,0,1,1,0,0,0,0,1,1,1,1,0,1,1,1,1,1,0,Extension,https://www.tummee.com/yoga-poses/humble-warrior-pose
+99,Hovering Table,None,Intermediate,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,1,1,1,1,Extension,https://www.tummee.com/yoga-poses/table-top-pose-knees-up
+100,Cheetah,None,Beginner,0,0,1,0,0,1,0,0,0,0,0,1,0,1,1,0,1,1,1,1,1,1,Flexion,https://www.tummee.com/yoga-poses/tiger-curl-pose
